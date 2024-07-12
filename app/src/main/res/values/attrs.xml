@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <declare-styleable name="ColorCircleView">
+        <attr name="circleColor" format="color" />
+        <attr name="circleborderColor" format="color" />
+        <attr name="circleborderWidth" format="dimension" />
+    </declare-styleable>
+
+
+</resources>

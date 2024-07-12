@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">food recipes</string>
+
+<!--    <string name="verified_info"><![CDATA[If you delete .SafeGallery folder in SDcard, locked files will be deleted. \n\nIf you choose Clear data menu(path : Settings > Applications manager > Citas), information of locked files will be deleted. \n\nApp which has function like cleaning up storage (ex. Clean Master) might be able to delete locked media, so do not delete any relative files of Safe Gallery while cleaning up your smartphone. \n\nDo not forget to unlock and back up locked medias before upgrading firmware or formatting internal/external SDcard If not, all locked medias might be able to be deleted. \n\nBefore deleting Safe Gallery, do not forget to unlock all locked medias and then delete Safe Gallery. \n\nIf not, all locked medias might be able to be deleted. Please back up important locked media in extra storage. \n\nAll locked medias might be able to be deleted in other Apps or outbreak situation.\n\n]]></string>-->
+    <string name="verified_info"><![CDATA[Nulla condimentum rhoncus risus.\nNullam placerat maximus elit , eu\n ullamcorper lacus semper id. Mauris elit\n sem, facilisis ac sapien eu, accumsan\n gravida felis.\n\n]]></string>
+
+</resources>
